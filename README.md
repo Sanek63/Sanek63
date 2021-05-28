@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanek63
+- 👋 Hi, I’m Alexandr
 - 👀 I’m interested in Python/Go
 - 🌱 I’m currently learning Go/ReactJS
 - 📫 How to reach me... Telegram: @bomj_1337
