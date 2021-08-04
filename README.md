@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexandr
 - 👀 I’m interested in Python/Go
-- 🌱 I’m currently learning Go/ReactJS
+- 🌱 I’m currently learning Go
 - 📫 How to reach me... Telegram: @bomj_1337
 
 <!---
